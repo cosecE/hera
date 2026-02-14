@@ -6,7 +6,7 @@
 
 HERA is an AI-powered emotional safety layer designed to help parents approach sensitive conversations with empathy rather than confrontation.
 
-Instead of monitoring raw messages, HERA translates behavioral signals into emotional insight — and provides guided practice before difficult conversations happen.
+Instead of monitoring raw messages, HERA translates behavioral signals into emotional insight, and provides guided practice before difficult conversations happen.
 
 ---
 
@@ -159,15 +159,5 @@ Future extensions could include:
 
 ## 👥 Team
 
-Built for [Hackathon Name]
-By: [Your Names Here]
-
----
-
-If you'd like, I can now:
-
-* Make this README more technical (judges love that)
-* Or make a shorter, pitch-focused version
-* Or help you write a 2-minute demo script to present live
-
-Which one do you want?
+Built for Iterate x Columbia AI Club Hackathon Spring 2026
+By: Team xyz (Kaushiki, Sneha, Imaan)
