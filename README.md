@@ -160,4 +160,6 @@ Future extensions could include:
 ## 👥 Team
 
 Built for Iterate x Columbia AI Club Hackathon Spring 2026
+
+
 By: Team xyz (Kaushiki, Sneha, Imaan)
