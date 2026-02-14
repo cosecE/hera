@@ -83,8 +83,8 @@ This prevents escalation before it happens.
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hera-anchor-ai.git
-cd hera-anchor-ai
+git clone https://github.com/YOUR_USERNAME/hera.git
+cd hera
 ```
 
 ### 2️⃣ Install dependencies
