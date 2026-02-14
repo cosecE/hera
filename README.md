@@ -60,13 +60,6 @@ This prevents escalation before it happens.
 
 ## 🏗 Architecture
 
-```
-Streamlit (UI Layer)
-        ↓
-White Circle (Moderation Shield)
-        ↓
-Claude (Behavioral Reasoning Engine)
-```
 <img width="1024" height="1536" alt="ChatGPT Image Feb 14, 2026, 04_32_46 PM" src="https://github.com/user-attachments/assets/80d2a1ec-9624-4ba4-860a-5431b2e6e689" />
 
 
