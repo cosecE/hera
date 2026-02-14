@@ -1,6 +1,6 @@
 
 
-# 🛟 HERA (Anchor AI)
+# 🛟 HERA
 
 **Digital safety, grounded.**
 
