@@ -141,7 +141,7 @@ st.markdown(
 )
 
 
-st.set_page_config(page_title="Anchor AI", layout="wide")
+st.set_page_config(page_title="Hera", layout="wide")
 
 # ---------------------------
 # Sidebar navigation
