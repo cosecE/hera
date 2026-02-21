@@ -1,6 +1,11 @@
 import requests
+import os
 
-WHITE_CIRCLE_API_KEY = "WHITE_CIRCLE_API_KEY"
+WHITE_CIRCLE_API_KEY = (
+    os.getenv("WHITE_CIRCLE_API_KEY")
+)
+
+#WHITE_CIRCLE_API_KEY = "WHITECIRCLE_API_KEY"
 WHITE_CIRCLE_URL = "https://us.whitecircle.ai/api/session/check"
 WHITE_CIRCLE_DEPLOYMENT_ID = "455439b6-aec6-4198-a639-23441f32e8f8"
 
